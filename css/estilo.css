@@ -1,0 +1,54 @@
+#linea_azul{
+    background-color: #2F3773;
+    color: white;
+}
+
+#ejemplo{
+    background-color: #2F3773;
+    color: white;
+}
+
+.blanco{
+    color: white;
+    text-align: center;
+}
+
+#imagen_banner{
+    background-image: url("../images/banner-etica.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 380px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#pie{
+    background-color: #29327b;
+    color: white;
+    height: 110px;
+}
+
+body p{
+    color: #29327b;
+    font-family: Yantramanav,sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+body h1{
+    color: #29327b;
+    font-family: Yantramanav,sans-serif;
+    font-size: 40px;
+    text-align: justify;
+}
+
+body li{
+    color: #29327b;
+    font-family: Yantramanav,sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+hr{
+    border: 2px solid blue;
+}
